@@ -53,6 +53,7 @@
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
+| [0338-counting-bits](https://github.com/deera009/leetcode/tree/master/0338-counting-bits) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deera009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0790-domino-and-tromino-tiling](https://github.com/deera009/leetcode/tree/master/0790-domino-and-tromino-tiling) |
@@ -67,6 +68,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/deera009/leetcode/tree/master/0338-counting-bits) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
