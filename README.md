@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/deera009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deera009/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/deera009/leetcode/tree/master/0035-search-insert-position) |
+| [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0643-maximum-average-subarray-i](https://github.com/deera009/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/deera009/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
@@ -48,6 +49,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
