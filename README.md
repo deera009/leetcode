@@ -9,6 +9,7 @@
 | [0035-search-insert-position](https://github.com/deera009/leetcode/tree/master/0035-search-insert-position) |
 | [0643-maximum-average-subarray-i](https://github.com/deera009/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/deera009/leetcode/tree/master/0724-find-pivot-index) |
+| [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -47,6 +48,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
