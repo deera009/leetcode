@@ -69,6 +69,7 @@
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/deera009/leetcode/tree/master/0338-counting-bits) |
+| [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deera009/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sorting
 |  |
