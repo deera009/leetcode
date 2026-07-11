@@ -7,6 +7,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/deera009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deera009/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/deera009/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0643-maximum-average-subarray-i](https://github.com/deera009/leetcode/tree/master/0643-maximum-average-subarray-i) |
@@ -37,6 +38,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/deera009/leetcode/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/deera009/leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/deera009/leetcode/tree/master/0035-search-insert-position) |
+| [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0374-guess-number-higher-or-lower](https://github.com/deera009/leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
