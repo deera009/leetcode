@@ -13,6 +13,7 @@
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deera009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/deera009/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deera009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
+| [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
@@ -79,6 +81,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Math
 |  |
@@ -115,6 +118,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+| [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 ## Quickselect
 |  |
 | ------- |
