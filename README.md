@@ -26,6 +26,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
 |  |
@@ -113,8 +114,17 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+## Design
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
+## Ordered Set
+|  |
+| ------- |
+| [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 <!---LeetCode Topics End-->
