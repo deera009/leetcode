@@ -16,6 +16,7 @@
 | [0724-find-pivot-index](https://github.com/deera009/leetcode/tree/master/0724-find-pivot-index) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/deera009/leetcode/tree/master/0875-koko-eating-bananas) |
+| [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/deera009/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
@@ -33,6 +34,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Binary Search
@@ -93,6 +95,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
