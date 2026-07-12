@@ -118,6 +118,7 @@
 |  |
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
+| [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/deera009/leetcode/tree/master/1143-longest-common-subsequence) |
 ## Depth-First Search
