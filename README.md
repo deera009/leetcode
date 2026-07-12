@@ -11,6 +11,7 @@
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/deera009/leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/deera009/leetcode/tree/master/0040-combination-sum-ii) |
+| [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
 | [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -40,6 +41,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
+| [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
