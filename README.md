@@ -55,6 +55,7 @@
 | [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deera009/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -121,6 +122,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
+| [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -145,6 +147,7 @@
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
 | [1143-longest-common-subsequence](https://github.com/deera009/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deera009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -209,4 +212,8 @@
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/deera009/leetcode/tree/master/1291-sequential-digits) |
+## Counting
+|  |
+| ------- |
+| [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 <!---LeetCode Topics End-->
