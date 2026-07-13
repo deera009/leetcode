@@ -17,6 +17,7 @@
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0216-combination-sum-iii](https://github.com/deera009/leetcode/tree/master/0216-combination-sum-iii) |
+| [0283-move-zeroes](https://github.com/deera009/leetcode/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/deera009/leetcode/tree/master/0643-maximum-average-subarray-i) |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/deera009/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0724-find-pivot-index](https://github.com/deera009/leetcode/tree/master/0724-find-pivot-index) |
@@ -89,6 +90,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
+| [0283-move-zeroes](https://github.com/deera009/leetcode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/deera009/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/deera009/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
