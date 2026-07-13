@@ -176,6 +176,7 @@
 ## Design
 |  |
 | ------- |
+| [0933-number-of-recent-calls](https://github.com/deera009/leetcode/tree/master/0933-number-of-recent-calls) |
 | [2336-smallest-number-in-infinite-set](https://github.com/deera009/leetcode/tree/master/2336-smallest-number-in-infinite-set) |
 ## Ordered Set
 |  |
@@ -220,4 +221,12 @@
 |  |
 | ------- |
 | [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
+## Queue
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/deera009/leetcode/tree/master/0933-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0933-number-of-recent-calls](https://github.com/deera009/leetcode/tree/master/0933-number-of-recent-calls) |
 <!---LeetCode Topics End-->
