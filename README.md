@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/deera009/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
+| [0136-single-number](https://github.com/deera009/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -127,6 +128,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/deera009/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/deera009/leetcode/tree/master/0338-counting-bits) |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/deera009/leetcode/tree/master/1318-minimum-flips-to-make-a-or-b-equal-to-c) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
