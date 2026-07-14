@@ -93,6 +93,7 @@
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
 | [0283-move-zeroes](https://github.com/deera009/leetcode/tree/master/0283-move-zeroes) |
 | [1768-merge-strings-alternately](https://github.com/deera009/leetcode/tree/master/1768-merge-strings-alternately) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deera009/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/deera009/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -243,4 +244,8 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+## Linked List
+|  |
+| ------- |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/deera009/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 <!---LeetCode Topics End-->
