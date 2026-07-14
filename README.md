@@ -33,6 +33,7 @@
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/deera009/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
 | [2542-maximum-subsequence-score](https://github.com/deera009/leetcode/tree/master/2542-maximum-subsequence-score) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Sliding Window
@@ -109,6 +110,7 @@
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [1143-longest-common-subsequence](https://github.com/deera009/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deera009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Greedy
 |  |
@@ -137,6 +139,7 @@
 | ------- |
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 ## Memoization
 |  |
 | ------- |
@@ -236,4 +239,8 @@
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/deera009/leetcode/tree/master/0933-number-of-recent-calls) |
+## Number Theory
+|  |
+| ------- |
+| [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 <!---LeetCode Topics End-->
