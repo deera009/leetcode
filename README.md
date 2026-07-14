@@ -29,6 +29,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deera009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1732-find-the-highest-altitude](https://github.com/deera009/leetcode/tree/master/1732-find-the-highest-altitude) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deera009/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/deera009/leetcode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
@@ -171,6 +172,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
 |  |
@@ -220,6 +222,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
+| [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
 |  |
