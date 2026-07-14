@@ -157,6 +157,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
+| [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
 | [0649-dota2-senate](https://github.com/deera009/leetcode/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/deera009/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deera009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -224,6 +225,7 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
+| [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
 | [0735-asteroid-collision](https://github.com/deera009/leetcode/tree/master/0735-asteroid-collision) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/deera009/leetcode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/deera009/leetcode/tree/master/2390-removing-stars-from-a-string) |
@@ -263,4 +265,5 @@
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deera009/leetcode/tree/master/0206-reverse-linked-list) |
+| [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
 <!---LeetCode Topics End-->
