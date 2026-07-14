@@ -24,6 +24,7 @@
 | [0735-asteroid-collision](https://github.com/deera009/leetcode/tree/master/0735-asteroid-collision) |
 | [0746-min-cost-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0875-koko-eating-bananas](https://github.com/deera009/leetcode/tree/master/0875-koko-eating-bananas) |
+| [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/deera009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -172,6 +173,7 @@
 ## Breadth-First Search
 |  |
 | ------- |
+| [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
@@ -222,6 +224,7 @@
 | ------- |
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
+| [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
