@@ -172,10 +172,12 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -276,4 +278,12 @@
 | ------- |
 | [0206-reverse-linked-list](https://github.com/deera009/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
+## Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 <!---LeetCode Topics End-->
