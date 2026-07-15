@@ -147,6 +147,7 @@
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deera009/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Memoization
 |  |
 | ------- |
@@ -262,6 +263,7 @@
 |  |
 | ------- |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
+| [3658-gcd-of-odd-and-even-sums](https://github.com/deera009/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Linked List
 |  |
 | ------- |
