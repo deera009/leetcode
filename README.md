@@ -173,6 +173,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deera009/leetcode/tree/master/0872-leaf-similar-trees) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -282,8 +283,10 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deera009/leetcode/tree/master/0872-leaf-similar-trees) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0872-leaf-similar-trees](https://github.com/deera009/leetcode/tree/master/0872-leaf-similar-trees) |
 <!---LeetCode Topics End-->
