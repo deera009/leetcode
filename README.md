@@ -13,6 +13,7 @@
 | [0040-combination-sum-ii](https://github.com/deera009/leetcode/tree/master/0040-combination-sum-ii) |
 | [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
+| [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/deera009/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
@@ -162,6 +163,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
+| [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/deera009/leetcode/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/deera009/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
