@@ -62,6 +62,7 @@
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
+| [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
@@ -149,6 +150,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/deera009/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
@@ -179,6 +181,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
+| [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/deera009/leetcode/tree/master/0399-evaluate-division) |
