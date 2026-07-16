@@ -185,6 +185,7 @@
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
 | [0399-evaluate-division](https://github.com/deera009/leetcode/tree/master/0399-evaluate-division) |
+| [0459-repeated-substring-pattern](https://github.com/deera009/leetcode/tree/master/0459-repeated-substring-pattern) |
 | [0649-dota2-senate](https://github.com/deera009/leetcode/tree/master/0649-dota2-senate) |
 | [1143-longest-common-subsequence](https://github.com/deera009/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/deera009/leetcode/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -359,4 +360,5 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/deera009/leetcode/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
