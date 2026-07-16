@@ -92,6 +92,7 @@
 | ------- |
 | [0547-number-of-provinces](https://github.com/deera009/leetcode/tree/master/0547-number-of-provinces) |
 | [0841-keys-and-rooms](https://github.com/deera009/leetcode/tree/master/0841-keys-and-rooms) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deera009/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/deera009/leetcode/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/deera009/leetcode/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -190,6 +191,7 @@
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deera009/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/deera009/leetcode/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deera009/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deera009/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
 |  |
@@ -201,6 +203,7 @@
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/deera009/leetcode/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/deera009/leetcode/tree/master/1448-count-good-nodes-in-binary-tree) |
+| [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/deera009/leetcode/tree/master/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2685-count-the-number-of-complete-components](https://github.com/deera009/leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Divide and Conquer
