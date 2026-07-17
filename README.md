@@ -64,6 +64,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deera009/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
@@ -170,6 +171,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deera009/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
@@ -190,6 +192,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/deera009/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
