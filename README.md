@@ -179,6 +179,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deera009/leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/deera009/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
@@ -354,6 +355,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deera009/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deera009/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deera009/leetcode/tree/master/0206-reverse-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/deera009/leetcode/tree/master/0328-odd-even-linked-list) |
@@ -362,6 +364,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/deera009/leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/deera009/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/deera009/leetcode/tree/master/0206-reverse-linked-list) |
 | [0394-decode-string](https://github.com/deera009/leetcode/tree/master/0394-decode-string) |
