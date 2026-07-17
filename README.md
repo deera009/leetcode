@@ -32,6 +32,7 @@
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/deera009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deera009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/deera009/leetcode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -73,6 +74,7 @@
 | [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1657-determine-if-two-strings-are-close](https://github.com/deera009/leetcode/tree/master/1657-determine-if-two-strings-are-close) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/deera009/leetcode/tree/master/2215-find-the-difference-of-two-arrays) |
@@ -272,6 +274,7 @@
 | [0657-robot-return-to-origin](https://github.com/deera009/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/deera009/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/deera009/leetcode/tree/master/0735-asteroid-collision) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/deera009/leetcode/tree/master/2390-removing-stars-from-a-string) |
 | [2462-total-cost-to-hire-k-workers](https://github.com/deera009/leetcode/tree/master/2462-total-cost-to-hire-k-workers) |
@@ -294,6 +297,7 @@
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/deera009/leetcode/tree/master/1926-nearest-exit-from-entrance-in-maze) |
 | [2352-equal-row-and-column-pairs](https://github.com/deera009/leetcode/tree/master/2352-equal-row-and-column-pairs) |
 ## Stack
