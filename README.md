@@ -15,6 +15,7 @@
 | [0042-trapping-rain-water](https://github.com/deera009/leetcode/tree/master/0042-trapping-rain-water) |
 | [0054-spiral-matrix](https://github.com/deera009/leetcode/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/deera009/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0136-single-number](https://github.com/deera009/leetcode/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/deera009/leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/deera009/leetcode/tree/master/0198-house-robber) |
@@ -74,6 +75,7 @@
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/deera009/leetcode/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/deera009/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
@@ -304,6 +306,7 @@
 | [0036-valid-sudoku](https://github.com/deera009/leetcode/tree/master/0036-valid-sudoku) |
 | [0037-sudoku-solver](https://github.com/deera009/leetcode/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/deera009/leetcode/tree/master/0054-spiral-matrix) |
+| [0073-set-matrix-zeroes](https://github.com/deera009/leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1572-matrix-diagonal-sum](https://github.com/deera009/leetcode/tree/master/1572-matrix-diagonal-sum) |
