@@ -196,6 +196,7 @@
 | [0017-letter-combinations-of-a-phone-number](https://github.com/deera009/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
+| [0058-length-of-last-word](https://github.com/deera009/leetcode/tree/master/0058-length-of-last-word) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
