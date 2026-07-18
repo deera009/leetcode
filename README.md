@@ -436,4 +436,8 @@
 |  |
 | ------- |
 | [1232-check-if-it-is-a-straight-line](https://github.com/deera009/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/deera009/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
