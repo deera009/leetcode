@@ -164,6 +164,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/deera009/leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/deera009/leetcode/tree/master/0136-single-number) |
 | [0338-counting-bits](https://github.com/deera009/leetcode/tree/master/0338-counting-bits) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
@@ -190,6 +191,7 @@
 | [0013-roman-to-integer](https://github.com/deera009/leetcode/tree/master/0013-roman-to-integer) |
 | [0062-unique-paths](https://github.com/deera009/leetcode/tree/master/0062-unique-paths) |
 | [0066-plus-one](https://github.com/deera009/leetcode/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/deera009/leetcode/tree/master/0067-add-binary) |
 | [0445-add-two-numbers-ii](https://github.com/deera009/leetcode/tree/master/0445-add-two-numbers-ii) |
 | [0976-largest-perimeter-triangle](https://github.com/deera009/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/deera009/leetcode/tree/master/1041-robot-bounded-in-circle) |
@@ -219,6 +221,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/deera009/leetcode/tree/master/0038-count-and-say) |
 | [0058-length-of-last-word](https://github.com/deera009/leetcode/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/deera009/leetcode/tree/master/0067-add-binary) |
 | [0072-edit-distance](https://github.com/deera009/leetcode/tree/master/0072-edit-distance) |
 | [0242-valid-anagram](https://github.com/deera009/leetcode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/deera009/leetcode/tree/master/0389-find-the-difference) |
@@ -292,6 +295,7 @@
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/deera009/leetcode/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/deera009/leetcode/tree/master/0067-add-binary) |
 | [0657-robot-return-to-origin](https://github.com/deera009/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/deera009/leetcode/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/deera009/leetcode/tree/master/0735-asteroid-collision) |
