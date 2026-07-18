@@ -36,6 +36,7 @@
 | [0994-rotting-oranges](https://github.com/deera009/leetcode/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/deera009/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/deera009/leetcode/tree/master/1207-unique-number-of-occurrences) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/deera009/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/deera009/leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1331-rank-transform-of-an-array](https://github.com/deera009/leetcode/tree/master/1331-rank-transform-of-an-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/deera009/leetcode/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -193,6 +194,7 @@
 | [0976-largest-perimeter-triangle](https://github.com/deera009/leetcode/tree/master/0976-largest-perimeter-triangle) |
 | [1041-robot-bounded-in-circle](https://github.com/deera009/leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1137-n-th-tribonacci-number](https://github.com/deera009/leetcode/tree/master/1137-n-th-tribonacci-number) |
+| [1232-check-if-it-is-a-straight-line](https://github.com/deera009/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/deera009/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/deera009/leetcode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/deera009/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -421,4 +423,8 @@
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/deera009/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/deera009/leetcode/tree/master/0459-repeated-substring-pattern) |
+## Geometry
+|  |
+| ------- |
+| [1232-check-if-it-is-a-straight-line](https://github.com/deera009/leetcode/tree/master/1232-check-if-it-is-a-straight-line) |
 <!---LeetCode Topics End-->
