@@ -299,6 +299,7 @@ This project is licensed under the MIT License.
 | [0197-rising-temperature](https://github.com/deera009/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/deera009/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/deera009/leetcode/tree/master/0577-employee-bonus) |
+| [0585-investments-in-2016](https://github.com/deera009/leetcode/tree/master/0585-investments-in-2016) |
 | [1068-product-sales-analysis-i](https://github.com/deera009/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1280-students-and-examinations](https://github.com/deera009/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/deera009/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
