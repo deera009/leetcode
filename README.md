@@ -295,6 +295,7 @@ This project is licensed under the MIT License.
 ## Database
 |  |
 | ------- |
+| [0185-department-top-three-salaries](https://github.com/deera009/leetcode/tree/master/0185-department-top-three-salaries) |
 | [0197-rising-temperature](https://github.com/deera009/leetcode/tree/master/0197-rising-temperature) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/deera009/leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
 | [0577-employee-bonus](https://github.com/deera009/leetcode/tree/master/0577-employee-bonus) |
