@@ -263,7 +263,17 @@ This project is licensed under the MIT License.
 > **The section below is auto-generated and automatically updated after new accepted solutions are added. Do not edit it manually.**
 
 <!---LeetCode Topics Start-->
-
-> Paste your existing auto-generated topic section here exactly as it is.
-
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
+## Matrix
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
