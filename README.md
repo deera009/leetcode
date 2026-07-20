@@ -295,6 +295,7 @@ This project is licensed under the MIT License.
 ## Database
 |  |
 | ------- |
+| [0197-rising-temperature](https://github.com/deera009/leetcode/tree/master/0197-rising-temperature) |
 | [1068-product-sales-analysis-i](https://github.com/deera009/leetcode/tree/master/1068-product-sales-analysis-i) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/deera009/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/deera009/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
