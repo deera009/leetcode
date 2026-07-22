@@ -1,7 +1,7 @@
-select TotalRevenu.product_id, case when total_untis is not null then round(sum(revenu)/total_untis,2) else 0 end as average_price from
-(
-    select pre.product_id, case when purchase_date is not null then (price*units) else 0 end as revenu from Prices pre left join UnitsSold sld on sld.product_id = pre.product_id where (DATEDIFF(purchase_date,start_date) >= 0 and DATEDIFF(end_date,purchase_date) >= 0) or purchase_date is null
-) TotalRevenu left join 
-(
-    select product_id,sum(units) as total_untis from UnitsSold group by product_id
-) TotalSoldUnits on TotalRevenu.product_id=TotalSoldUnits.product_id group by TotalRevenu.product_id;
+# Write your MySQL query statement below
+select t1.product_id,IFNULL(ROUND(SUM(t1.price * t2.units) / SUM(t2.units), 2), 0) AS average_price from 
+(select product_id, start_date,end_date,price from prices) t1
+left join
+(select product_id,purchase_date,units from unitssold) t2
+on t1.product_id=t2.product_id and t2.purchase_date between t1.start_date and end_date
+group by t1.product_id
