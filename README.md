@@ -302,6 +302,7 @@ This project is licensed under the MIT License.
 | [0585-investments-in-2016](https://github.com/deera009/leetcode/tree/master/0585-investments-in-2016) |
 | [0620-not-boring-movies](https://github.com/deera009/leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/deera009/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1251-average-selling-price](https://github.com/deera009/leetcode/tree/master/1251-average-selling-price) |
 | [1280-students-and-examinations](https://github.com/deera009/leetcode/tree/master/1280-students-and-examinations) |
 | [1378-replace-employee-id-with-the-unique-identifier](https://github.com/deera009/leetcode/tree/master/1378-replace-employee-id-with-the-unique-identifier) |
 | [1581-customer-who-visited-but-did-not-make-any-transactions](https://github.com/deera009/leetcode/tree/master/1581-customer-who-visited-but-did-not-make-any-transactions) |
