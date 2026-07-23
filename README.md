@@ -305,6 +305,7 @@ This project is licensed under the MIT License.
 | [0585-investments-in-2016](https://github.com/deera009/leetcode/tree/master/0585-investments-in-2016) |
 | [0620-not-boring-movies](https://github.com/deera009/leetcode/tree/master/0620-not-boring-movies) |
 | [1068-product-sales-analysis-i](https://github.com/deera009/leetcode/tree/master/1068-product-sales-analysis-i) |
+| [1070-product-sales-analysis-iii](https://github.com/deera009/leetcode/tree/master/1070-product-sales-analysis-iii) |
 | [1075-project-employees-i](https://github.com/deera009/leetcode/tree/master/1075-project-employees-i) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/deera009/leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1174-immediate-food-delivery-ii](https://github.com/deera009/leetcode/tree/master/1174-immediate-food-delivery-ii) |
