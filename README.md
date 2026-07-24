@@ -284,6 +284,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Stack
 |  |
@@ -358,8 +359,17 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
+| [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Sorting
 |  |
 | ------- |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
+## Sliding Window
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 <!---LeetCode Topics End-->
