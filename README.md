@@ -268,6 +268,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/deera009/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Matrix
