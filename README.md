@@ -288,6 +288,7 @@ This project is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -384,6 +385,7 @@ This project is licensed under the MIT License.
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Prefix Sum
 |  |
@@ -401,4 +403,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
+## Hash Table
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
