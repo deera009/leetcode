@@ -267,6 +267,7 @@ This project is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
@@ -277,6 +278,7 @@ This project is licensed under the MIT License.
 ## Matrix
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -389,4 +391,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Binary Search
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
