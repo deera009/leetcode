@@ -269,6 +269,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0045-jump-game-ii](https://github.com/deera009/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deera009/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
@@ -386,6 +387,7 @@ This project is licensed under the MIT License.
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
@@ -420,6 +422,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0046-permutations](https://github.com/deera009/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/deera009/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
 ## Recursion
