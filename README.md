@@ -312,6 +312,7 @@ This project is licensed under the MIT License.
 | [0068-text-justification](https://github.com/deera009/leetcode/tree/master/0068-text-justification) |
 | [0071-simplify-path](https://github.com/deera009/leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
+| [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -411,6 +412,7 @@ This project is licensed under the MIT License.
 | [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deera009/leetcode/tree/master/0064-minimum-path-sum) |
 | [0085-maximal-rectangle](https://github.com/deera009/leetcode/tree/master/0085-maximal-rectangle) |
+| [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Sorting
