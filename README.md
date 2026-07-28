@@ -270,6 +270,7 @@ This project is licensed under the MIT License.
 | [0045-jump-game-ii](https://github.com/deera009/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deera009/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
@@ -283,6 +284,7 @@ This project is licensed under the MIT License.
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -368,6 +370,7 @@ This project is licensed under the MIT License.
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
