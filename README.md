@@ -395,6 +395,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
+| [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -403,6 +404,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -467,6 +469,7 @@ This project is licensed under the MIT License.
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0077-combinations](https://github.com/deera009/leetcode/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
+| [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 ## Recursion
 |  |
 | ------- |
