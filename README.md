@@ -465,4 +465,5 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deera009/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/deera009/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 <!---LeetCode Topics End-->
