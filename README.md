@@ -381,6 +381,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
+| [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -427,6 +428,7 @@ This project is licensed under the MIT License.
 ## Binary Search
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 ## Two Pointers
 |  |
