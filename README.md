@@ -274,6 +274,7 @@ This project is licensed under the MIT License.
 | [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deera009/leetcode/tree/master/0064-minimum-path-sum) |
+| [0068-text-justification](https://github.com/deera009/leetcode/tree/master/0068-text-justification) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
@@ -295,6 +296,7 @@ This project is licensed under the MIT License.
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/deera009/leetcode/tree/master/0068-text-justification) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 ## String
 |  |
@@ -302,6 +304,7 @@ This project is licensed under the MIT License.
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/deera009/leetcode/tree/master/0065-valid-number) |
+| [0068-text-justification](https://github.com/deera009/leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
