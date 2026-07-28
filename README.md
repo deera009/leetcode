@@ -271,6 +271,7 @@ This project is licensed under the MIT License.
 | [0046-permutations](https://github.com/deera009/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
@@ -295,6 +296,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
+| [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
@@ -392,6 +394,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
+| [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
@@ -422,6 +425,7 @@ This project is licensed under the MIT License.
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 ## Backtracking
 |  |
