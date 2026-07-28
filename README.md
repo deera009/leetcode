@@ -440,6 +440,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/deera009/leetcode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deera009/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -460,4 +461,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deera009/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Linked List
+|  |
+| ------- |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deera009/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 <!---LeetCode Topics End-->
