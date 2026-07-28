@@ -272,6 +272,7 @@ This project is licensed under the MIT License.
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
+| [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
@@ -286,6 +287,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
+| [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
@@ -388,6 +390,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
 | [0045-jump-game-ii](https://github.com/deera009/leetcode/tree/master/0045-jump-game-ii) |
+| [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Sorting
