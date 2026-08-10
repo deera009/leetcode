@@ -397,6 +397,7 @@ This project is licensed under the MIT License.
 | [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/deera009/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -417,6 +418,7 @@ This project is licensed under the MIT License.
 | [0085-maximal-rectangle](https://github.com/deera009/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Sorting
 |  |
@@ -486,4 +488,24 @@ This project is licensed under the MIT License.
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/deera009/leetcode/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/deera009/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0086-partition-list](https://github.com/deera009/leetcode/tree/master/0086-partition-list) |
+## Minimax
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+## Game Theory
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
