@@ -1,41 +1,28 @@
-import java.util.*;
-
 class Solution {
 
     public boolean isSymmetric(TreeNode root) {
+        return isMirror(root.left, root.right);
+    }
 
-        Queue<TreeNode> queue = new LinkedList<>();
+    private boolean isMirror(TreeNode left, TreeNode right) {
 
-        queue.offer(root.left);
-        queue.offer(root.right);
-
-        while (!queue.isEmpty()) {
-
-            TreeNode left = queue.poll();
-            TreeNode right = queue.poll();
-
-            // Both null
-            if (left == null && right == null) {
-                continue;
-            }
-
-            // One null or values differ
-            if (left == null ||
-                right == null ||
-                left.val != right.val) {
-
-                return false;
-            }
-
-            // Outer pair
-            queue.offer(left.left);
-            queue.offer(right.right);
-
-            // Inner pair
-            queue.offer(left.right);
-            queue.offer(right.left);
+        // Both nodes are null
+        if (left == null && right == null) {
+            return true;
         }
 
-        return true;
+        // One is null
+        if (left == null || right == null) {
+            return false;
+        }
+
+        // Values are different
+        if (left.val != right.val) {
+            return false;
+        }
+
+        // Compare opposite sides
+        return isMirror(left.left, right.right)
+                && isMirror(left.right, right.left);
     }
 }
