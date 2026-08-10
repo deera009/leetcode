@@ -423,6 +423,7 @@ This project is licensed under the MIT License.
 | [0085-maximal-rectangle](https://github.com/deera009/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/deera009/leetcode/tree/master/0091-decode-ways) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
@@ -481,6 +482,7 @@ This project is licensed under the MIT License.
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/deera009/leetcode/tree/master/0090-subsets-ii) |
 | [0093-restore-ip-addresses](https://github.com/deera009/leetcode/tree/master/0093-restore-ip-addresses) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -521,6 +523,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -529,4 +532,9 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 <!---LeetCode Topics End-->
