@@ -530,11 +530,13 @@ This project is licensed under the MIT License.
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -542,10 +544,12 @@ This project is licensed under the MIT License.
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0099-recover-binary-search-tree) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0098-validate-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0098-validate-binary-search-tree) |
+| [0099-recover-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0099-recover-binary-search-tree) |
 <!---LeetCode Topics End-->
