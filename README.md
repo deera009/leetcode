@@ -400,6 +400,7 @@ This project is licensed under the MIT License.
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
+| [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -424,6 +425,7 @@ This project is licensed under the MIT License.
 | [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/deera009/leetcode/tree/master/0091-decode-ways) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
@@ -524,6 +526,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -533,8 +536,10 @@ This project is licensed under the MIT License.
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
+| [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 <!---LeetCode Topics End-->
