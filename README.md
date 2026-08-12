@@ -604,6 +604,7 @@ This project is licensed under the MIT License.
 | [0112-path-sum](https://github.com/deera009/leetcode/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/deera009/leetcode/tree/master/0113-path-sum-ii) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deera009/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
 | ------- |
@@ -643,6 +644,7 @@ This project is licensed under the MIT License.
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/deera009/leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/deera009/leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/deera009/leetcode/tree/master/0112-path-sum) |
+| [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -650,4 +652,8 @@ This project is licensed under the MIT License.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
 <!---LeetCode Topics End-->
