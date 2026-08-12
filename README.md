@@ -332,6 +332,7 @@ This project is licensed under the MIT License.
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deera009/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Stack
@@ -351,6 +352,7 @@ This project is licensed under the MIT License.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -425,6 +427,7 @@ This project is licensed under the MIT License.
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deera009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/deera009/leetcode/tree/master/3536-maximum-product-of-two-digits) |
@@ -523,6 +526,7 @@ This project is licensed under the MIT License.
 | [0093-restore-ip-addresses](https://github.com/deera009/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/deera009/leetcode/tree/master/0113-path-sum-ii) |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
 | ------- |
@@ -658,4 +662,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
+## Number Theory
+|  |
+| ------- |
+| [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 <!---LeetCode Topics End-->
