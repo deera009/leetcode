@@ -292,6 +292,7 @@ This project is licensed under the MIT License.
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deera009/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -456,6 +457,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -486,6 +488,7 @@ This project is licensed under the MIT License.
 | [0076-minimum-window-substring](https://github.com/deera009/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Backtracking
 |  |
