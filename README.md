@@ -289,6 +289,7 @@ This project is licensed under the MIT License.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/deera009/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deera009/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/deera009/leetcode/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -459,6 +460,7 @@ This project is licensed under the MIT License.
 | [0115-distinct-subsequences](https://github.com/deera009/leetcode/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/deera009/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/deera009/leetcode/tree/master/0119-pascals-triangle-ii) |
+| [0120-triangle](https://github.com/deera009/leetcode/tree/master/0120-triangle) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
