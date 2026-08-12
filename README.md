@@ -287,6 +287,7 @@ This project is licensed under the MIT License.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
@@ -413,6 +414,7 @@ This project is licensed under the MIT License.
 | [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -441,6 +443,7 @@ This project is licensed under the MIT License.
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0097-interleaving-string](https://github.com/deera009/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/deera009/leetcode/tree/master/0115-distinct-subsequences) |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
@@ -513,6 +516,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
 | ------- |
@@ -531,10 +535,12 @@ This project is licensed under the MIT License.
 ## Minimax
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 ## Nim Game
 |  |
@@ -547,6 +553,7 @@ This project is licensed under the MIT License.
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 ## Tree
 |  |
