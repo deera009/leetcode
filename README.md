@@ -426,6 +426,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0048-rotate-image](https://github.com/deera009/leetcode/tree/master/0048-rotate-image) |
 | [0069-sqrtx](https://github.com/deera009/leetcode/tree/master/0069-sqrtx) |
+| [0070-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0070-climbing-stairs) |
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
@@ -455,6 +456,7 @@ This project is licensed under the MIT License.
 | [0045-jump-game-ii](https://github.com/deera009/leetcode/tree/master/0045-jump-game-ii) |
 | [0063-unique-paths-ii](https://github.com/deera009/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/deera009/leetcode/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0070-climbing-stairs) |
 | [0085-maximal-rectangle](https://github.com/deera009/leetcode/tree/master/0085-maximal-rectangle) |
 | [0087-scramble-string](https://github.com/deera009/leetcode/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/deera009/leetcode/tree/master/0091-decode-ways) |
@@ -705,4 +707,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deera009/leetcode/tree/master/0014-longest-common-prefix) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
