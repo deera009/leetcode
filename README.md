@@ -267,6 +267,7 @@ This project is licensed under the MIT License.
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/deera009/leetcode/tree/master/0014-longest-common-prefix) |
 | [0045-jump-game-ii](https://github.com/deera009/leetcode/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/deera009/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/deera009/leetcode/tree/master/0047-permutations-ii) |
@@ -322,6 +323,7 @@ This project is licensed under the MIT License.
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/deera009/leetcode/tree/master/0014-longest-common-prefix) |
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
 | [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0065-valid-number](https://github.com/deera009/leetcode/tree/master/0065-valid-number) |
@@ -699,4 +701,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/deera009/leetcode/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
