@@ -292,6 +292,7 @@ This project is licensed under the MIT License.
 | [0119-pascals-triangle-ii](https://github.com/deera009/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deera009/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deera009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -488,6 +489,7 @@ This project is licensed under the MIT License.
 | [0049-group-anagrams](https://github.com/deera009/leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/deera009/leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/deera009/leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
@@ -538,6 +540,7 @@ This project is licensed under the MIT License.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -563,6 +566,7 @@ This project is licensed under the MIT License.
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deera009/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Linked List
@@ -707,6 +711,7 @@ This project is licensed under the MIT License.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 ## Graph Theory
 |  |
 | ------- |
@@ -735,4 +740,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
