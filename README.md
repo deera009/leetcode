@@ -299,6 +299,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deera009/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -334,6 +335,7 @@ This project is licensed under the MIT License.
 | [0115-distinct-subsequences](https://github.com/deera009/leetcode/tree/master/0115-distinct-subsequences) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -689,4 +691,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Segment Tree
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+## Ordered Set
+|  |
+| ------- |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 <!---LeetCode Topics End-->
