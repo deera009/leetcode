@@ -576,6 +576,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0044-wildcard-matching](https://github.com/deera009/leetcode/tree/master/0044-wildcard-matching) |
+| [0203-remove-linked-list-elements](https://github.com/deera009/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
@@ -597,6 +598,7 @@ This project is licensed under the MIT License.
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deera009/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0203-remove-linked-list-elements](https://github.com/deera009/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Minimax
 |  |
 | ------- |
