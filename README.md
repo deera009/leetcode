@@ -461,6 +461,7 @@ This project is licensed under the MIT License.
 | [0078-subsets](https://github.com/deera009/leetcode/tree/master/0078-subsets) |
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0090-subsets-ii](https://github.com/deera009/leetcode/tree/master/0090-subsets-ii) |
+| [0190-reverse-bits](https://github.com/deera009/leetcode/tree/master/0190-reverse-bits) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Dynamic Programming
@@ -721,6 +722,7 @@ This project is licensed under the MIT License.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
+| [0190-reverse-bits](https://github.com/deera009/leetcode/tree/master/0190-reverse-bits) |
 ## Graph Theory
 |  |
 | ------- |
