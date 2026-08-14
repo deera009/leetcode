@@ -362,6 +362,7 @@ This project is licensed under the MIT License.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deera009/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -771,4 +772,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
+## Design
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
+## Queue
+|  |
+| ------- |
+| [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 <!---LeetCode Topics End-->
