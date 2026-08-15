@@ -571,6 +571,7 @@ This project is licensed under the MIT License.
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/deera009/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
+| [0138-copy-list-with-random-pointer](https://github.com/deera009/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
@@ -621,6 +622,7 @@ This project is licensed under the MIT License.
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/deera009/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/deera009/leetcode/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/deera009/leetcode/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
+| [0138-copy-list-with-random-pointer](https://github.com/deera009/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deera009/leetcode/tree/master/0203-remove-linked-list-elements) |
