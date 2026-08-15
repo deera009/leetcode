@@ -296,6 +296,7 @@ This project is licensed under the MIT License.
 | [0134-gas-station](https://github.com/deera009/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deera009/leetcode/tree/master/0135-candy) |
 | [0137-single-number-ii](https://github.com/deera009/leetcode/tree/master/0137-single-number-ii) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -348,6 +349,7 @@ This project is licensed under the MIT License.
 | [0125-valid-palindrome](https://github.com/deera009/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/deera009/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0168-excel-sheet-column-title](https://github.com/deera009/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/deera009/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/deera009/leetcode/tree/master/0205-isomorphic-strings) |
@@ -503,6 +505,7 @@ This project is licensed under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deera009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0132-palindrome-partitioning-ii](https://github.com/deera009/leetcode/tree/master/0132-palindrome-partitioning-ii) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
@@ -572,6 +575,7 @@ This project is licensed under the MIT License.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/deera009/leetcode/tree/master/0138-copy-list-with-random-pointer) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
@@ -782,10 +786,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/deera009/leetcode/tree/master/0014-longest-common-prefix) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 ## Memoization
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0070-climbing-stairs) |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -807,4 +813,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
+## Brute-Force Search
+|  |
+| ------- |
+| [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 <!---LeetCode Topics End-->
