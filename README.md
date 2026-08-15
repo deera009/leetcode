@@ -343,6 +343,7 @@ This project is licensed under the MIT License.
 | [0097-interleaving-string](https://github.com/deera009/leetcode/tree/master/0097-interleaving-string) |
 | [0115-distinct-subsequences](https://github.com/deera009/leetcode/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/deera009/leetcode/tree/master/0125-valid-palindrome) |
+| [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0168-excel-sheet-column-title](https://github.com/deera009/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/deera009/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0205-isomorphic-strings](https://github.com/deera009/leetcode/tree/master/0205-isomorphic-strings) |
@@ -493,6 +494,7 @@ This project is licensed under the MIT License.
 | [0119-pascals-triangle-ii](https://github.com/deera009/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0120-triangle](https://github.com/deera009/leetcode/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deera009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
@@ -584,6 +586,7 @@ This project is licensed under the MIT License.
 | [0093-restore-ip-addresses](https://github.com/deera009/leetcode/tree/master/0093-restore-ip-addresses) |
 | [0095-unique-binary-search-trees-ii](https://github.com/deera009/leetcode/tree/master/0095-unique-binary-search-trees-ii) |
 | [0113-path-sum-ii](https://github.com/deera009/leetcode/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
