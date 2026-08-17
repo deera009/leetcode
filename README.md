@@ -586,6 +586,7 @@ This project is licensed under the MIT License.
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deera009/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/deera009/leetcode/tree/master/0202-happy-number) |
@@ -639,6 +640,7 @@ This project is licensed under the MIT License.
 | [0138-copy-list-with-random-pointer](https://github.com/deera009/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/deera009/leetcode/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/deera009/leetcode/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/deera009/leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/deera009/leetcode/tree/master/0203-remove-linked-list-elements) |
 ## Minimax
@@ -819,6 +821,7 @@ This project is licensed under the MIT License.
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -832,4 +835,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
 <!---LeetCode Topics End-->
