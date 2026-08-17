@@ -294,6 +294,7 @@ This project is licensed under the MIT License.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/deera009/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/deera009/leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0123-best-time-to-buy-and-sell-stock-iii](https://github.com/deera009/leetcode/tree/master/0123-best-time-to-buy-and-sell-stock-iii) |
+| [0128-longest-consecutive-sequence](https://github.com/deera009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
 | [0134-gas-station](https://github.com/deera009/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deera009/leetcode/tree/master/0135-candy) |
@@ -590,6 +591,7 @@ This project is licensed under the MIT License.
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0126-word-ladder-ii](https://github.com/deera009/leetcode/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/deera009/leetcode/tree/master/0127-word-ladder) |
+| [0128-longest-consecutive-sequence](https://github.com/deera009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
 | [0138-copy-list-with-random-pointer](https://github.com/deera009/leetcode/tree/master/0138-copy-list-with-random-pointer) |
 | [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
@@ -846,6 +848,7 @@ This project is licensed under the MIT License.
 ## Union-Find
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/deera009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
 ## Brute-Force Search
 |  |
