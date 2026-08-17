@@ -309,6 +309,7 @@ This project is licensed under the MIT License.
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deera009/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -468,6 +469,7 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deera009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -515,6 +517,7 @@ This project is licensed under the MIT License.
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 ## Sorting
 |  |
@@ -654,6 +657,7 @@ This project is licensed under the MIT License.
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
 ## Nim Game
 |  |
 | ------- |
