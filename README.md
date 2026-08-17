@@ -302,6 +302,7 @@ This project is licensed under the MIT License.
 | [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
 | [0149-max-points-on-a-line](https://github.com/deera009/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deera009/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
@@ -382,6 +383,7 @@ This project is licensed under the MIT License.
 | [0143-reorder-list](https://github.com/deera009/leetcode/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deera009/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -469,6 +471,7 @@ This project is licensed under the MIT License.
 | [0089-gray-code](https://github.com/deera009/leetcode/tree/master/0089-gray-code) |
 | [0096-unique-binary-search-trees](https://github.com/deera009/leetcode/tree/master/0096-unique-binary-search-trees) |
 | [0149-max-points-on-a-line](https://github.com/deera009/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0150-evaluate-reverse-polish-notation](https://github.com/deera009/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0168-excel-sheet-column-title](https://github.com/deera009/leetcode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/deera009/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0202-happy-number](https://github.com/deera009/leetcode/tree/master/0202-happy-number) |
