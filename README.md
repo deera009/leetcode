@@ -308,6 +308,7 @@ This project is licensed under the MIT License.
 | [0164-maximum-gap](https://github.com/deera009/leetcode/tree/master/0164-maximum-gap) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/deera009/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
+| [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
@@ -337,6 +338,7 @@ This project is licensed under the MIT License.
 | [0074-search-a-2d-matrix](https://github.com/deera009/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/deera009/leetcode/tree/master/0085-maximal-rectangle) |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
+| [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [1260-shift-2d-grid](https://github.com/deera009/leetcode/tree/master/1260-shift-2d-grid) |
 ## Simulation
 |  |
@@ -539,6 +541,7 @@ This project is licensed under the MIT License.
 | [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/deera009/leetcode/tree/master/0152-maximum-product-subarray) |
+| [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
