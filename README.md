@@ -392,6 +392,7 @@ This project is licensed under the MIT License.
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/deera009/leetcode/tree/master/0150-evaluate-reverse-polish-notation) |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
@@ -752,6 +753,7 @@ This project is licensed under the MIT License.
 | [0129-sum-root-to-leaf-numbers](https://github.com/deera009/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -801,6 +803,7 @@ This project is licensed under the MIT License.
 | [0129-sum-root-to-leaf-numbers](https://github.com/deera009/leetcode/tree/master/0129-sum-root-to-leaf-numbers) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -810,6 +813,7 @@ This project is licensed under the MIT License.
 | [0099-recover-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -880,6 +884,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 ## Queue
 |  |
@@ -939,4 +944,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/deera009/leetcode/tree/master/0164-maximum-gap) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
