@@ -313,6 +313,7 @@ This project is licensed under the MIT License.
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -509,6 +510,7 @@ This project is licensed under the MIT License.
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -666,6 +668,7 @@ This project is licensed under the MIT License.
 | [0205-isomorphic-strings](https://github.com/deera009/leetcode/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -924,6 +927,7 @@ This project is licensed under the MIT License.
 | [0146-lru-cache](https://github.com/deera009/leetcode/tree/master/0146-lru-cache) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 ## Queue
 |  |
 | ------- |
@@ -988,4 +992,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+## Randomized
+|  |
+| ------- |
+| [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 <!---LeetCode Topics End-->
