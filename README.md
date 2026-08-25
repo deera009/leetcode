@@ -312,6 +312,7 @@ This project is licensed under the MIT License.
 | [0179-largest-number](https://github.com/deera009/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -507,6 +508,7 @@ This project is licensed under the MIT License.
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -956,6 +958,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0149-max-points-on-a-line](https://github.com/deera009/leetcode/tree/master/0149-max-points-on-a-line) |
+| [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 ## Euclidean Algorithm
 |  |
 | ------- |
