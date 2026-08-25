@@ -502,6 +502,7 @@ This project is licensed under the MIT License.
 | [0172-factorial-trailing-zeroes](https://github.com/deera009/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/deera009/leetcode/tree/master/0202-happy-number) |
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
@@ -560,6 +561,7 @@ This project is licensed under the MIT License.
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
 | [0152-maximum-product-subarray](https://github.com/deera009/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
+| [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
@@ -690,6 +692,7 @@ This project is licensed under the MIT License.
 | [0143-reorder-list](https://github.com/deera009/leetcode/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/deera009/leetcode/tree/master/0203-remove-linked-list-elements) |
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
+| [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
