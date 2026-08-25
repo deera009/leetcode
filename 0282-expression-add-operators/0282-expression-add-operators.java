@@ -1,124 +1,60 @@
-import java.util.ArrayList;
-import java.util.List;
-
-class Solution {
-
+public class Solution {
     public List<String> addOperators(String num, int target) {
-
-        List<String> result = new ArrayList<>();
-
-        backtrack(
-            num,
-            target,
-            0,
-            0,
-            0,
-            new StringBuilder(),
-            result
-        );
-
-        return result;
+        List<String> res = new ArrayList<>();
+        if (num.length() == 0 || Long.valueOf(num) > Integer.MAX_VALUE) {
+            return res;
+        }
+        char[] list = num.toCharArray();
+        dfs(res, list, 0, 0, target, new char[2 * list.length - 1], 0, 1, '+', 0);
+        return res;
     }
 
-    private void backtrack(
-        String num,
-        long target,
-        int index,
-        long currentValue,
-        long previousOperand,
-        StringBuilder expression,
-        List<String> result
-    ) {
-
-        // All digits have been used
-        if (index == num.length()) {
-
-            if (currentValue == target) {
-                result.add(expression.toString());
+    private void dfs(
+            List<String> res,
+            char[] list,
+            int i,
+            int j,
+            int target,
+            char[] arr,
+            int val,
+            int mul,
+            char preOp,
+            int join) {
+        arr[j++] = list[i];
+        int digit = 10 * join + (list[i] - '0');
+        int result = val + mul * digit;
+        if (preOp == '-') {
+            result = val - mul * digit;
+        }
+        if (i == list.length - 1) {
+            if (result == target) {
+                StringBuilder sb = new StringBuilder();
+                for (int k = 0; k < j; k++) {
+                    sb.append(arr[k]);
+                }
+                res.add(sb.toString());
             }
-
             return;
         }
-
-        int expressionLength = expression.length();
-
-        // Try every possible next number
-        for (int i = index; i < num.length(); i++) {
-
-            // Leading zero is not allowed
-            if (i > index && num.charAt(index) == '0') {
-                break;
+        if (preOp == '+') {
+            arr[j] = '+';
+            dfs(res, list, i + 1, j + 1, target, arr, val + mul * digit, 1, '+', 0);
+            arr[j] = '-';
+            dfs(res, list, i + 1, j + 1, target, arr, val + mul * digit, 1, '-', 0);
+            arr[j] = '*';
+            dfs(res, list, i + 1, j + 1, target, arr, val, mul * digit, '+', 0);
+            if (digit != 0) {
+                dfs(res, list, i + 1, j, target, arr, val, mul, '+', digit);
             }
-
-            String currentString = num.substring(index, i + 1);
-
-            long currentNumber = Long.parseLong(currentString);
-
-            // First number: no operator before it
-            if (index == 0) {
-
-                expression.append(currentString);
-
-                backtrack(
-                    num,
-                    target,
-                    i + 1,
-                    currentNumber,
-                    currentNumber,
-                    expression,
-                    result
-                );
-
-                expression.setLength(expressionLength);
-
-            } else {
-
-                // +
-                expression.append("+").append(currentString);
-
-                backtrack(
-                    num,
-                    target,
-                    i + 1,
-                    currentValue + currentNumber,
-                    currentNumber,
-                    expression,
-                    result
-                );
-
-                expression.setLength(expressionLength);
-
-                // -
-                expression.append("-").append(currentString);
-
-                backtrack(
-                    num,
-                    target,
-                    i + 1,
-                    currentValue - currentNumber,
-                    -currentNumber,
-                    expression,
-                    result
-                );
-
-                expression.setLength(expressionLength);
-
-                // *
-                expression.append("*").append(currentString);
-
-                backtrack(
-                    num,
-                    target,
-                    i + 1,
-                    currentValue
-                        - previousOperand
-                        + previousOperand * currentNumber,
-                    previousOperand * currentNumber,
-                    expression,
-                    result
-                );
-
-                expression.setLength(expressionLength);
+        } else {
+            arr[j] = '+';
+            dfs(res, list, i + 1, j + 1, target, arr, val - mul * digit, 1, '+', 0);
+            arr[j] = '-';
+            dfs(res, list, i + 1, j + 1, target, arr, val - mul * digit, 1, '-', 0);
+            arr[j] = '*';
+            dfs(res, list, i + 1, j + 1, target, arr, val, mul * digit, '-', 0);
+            if (digit != 0) {
+                dfs(res, list, i + 1, j, target, arr, val, mul, '-', digit);
             }
         }
     }
