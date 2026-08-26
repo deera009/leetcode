@@ -518,6 +518,7 @@ This project is licensed under the MIT License.
 | [0326-power-of-three](https://github.com/deera009/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
+| [0343-integer-break](https://github.com/deera009/leetcode/tree/master/0343-integer-break) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
@@ -582,6 +583,7 @@ This project is licensed under the MIT License.
 | [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
+| [0343-integer-break](https://github.com/deera009/leetcode/tree/master/0343-integer-break) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
