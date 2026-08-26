@@ -514,6 +514,7 @@ This project is licensed under the MIT License.
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
 | [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
+| [0319-bulb-switcher](https://github.com/deera009/leetcode/tree/master/0319-bulb-switcher) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
@@ -1011,4 +1012,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
+## Brainteaser
+|  |
+| ------- |
+| [0319-bulb-switcher](https://github.com/deera009/leetcode/tree/master/0319-bulb-switcher) |
 <!---LeetCode Topics End-->
