@@ -517,6 +517,7 @@ This project is licensed under the MIT License.
 | [0319-bulb-switcher](https://github.com/deera009/leetcode/tree/master/0319-bulb-switcher) |
 | [0326-power-of-three](https://github.com/deera009/leetcode/tree/master/0326-power-of-three) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
+| [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
@@ -545,6 +546,7 @@ This project is licensed under the MIT License.
 | [0137-single-number-ii](https://github.com/deera009/leetcode/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/deera009/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deera009/leetcode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
@@ -717,6 +719,7 @@ This project is licensed under the MIT License.
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0326-power-of-three](https://github.com/deera009/leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 ## Counting Sort
 |  |
