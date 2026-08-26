@@ -312,6 +312,7 @@ This project is licensed under the MIT License.
 | [0179-largest-number](https://github.com/deera009/leetcode/tree/master/0179-largest-number) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
@@ -512,6 +513,7 @@ This project is licensed under the MIT License.
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
@@ -575,6 +577,7 @@ This project is licensed under the MIT License.
 | [0152-maximum-product-subarray](https://github.com/deera009/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
+| [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
