@@ -310,6 +310,7 @@ This project is licensed under the MIT License.
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0174-dungeon-game](https://github.com/deera009/leetcode/tree/master/0174-dungeon-game) |
 | [0179-largest-number](https://github.com/deera009/leetcode/tree/master/0179-largest-number) |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 | [0217-contains-duplicate](https://github.com/deera009/leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/deera009/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0313-super-ugly-number](https://github.com/deera009/leetcode/tree/master/0313-super-ugly-number) |
@@ -491,6 +492,7 @@ This project is licensed under the MIT License.
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deera009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -509,6 +511,7 @@ This project is licensed under the MIT License.
 | [0171-excel-sheet-column-number](https://github.com/deera009/leetcode/tree/master/0171-excel-sheet-column-number) |
 | [0172-factorial-trailing-zeroes](https://github.com/deera009/leetcode/tree/master/0172-factorial-trailing-zeroes) |
 | [0202-happy-number](https://github.com/deera009/leetcode/tree/master/0202-happy-number) |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
 | [0233-number-of-digit-one](https://github.com/deera009/leetcode/tree/master/0233-number-of-digit-one) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
@@ -907,6 +910,7 @@ This project is licensed under the MIT License.
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Segment Tree
@@ -1023,4 +1027,16 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0319-bulb-switcher](https://github.com/deera009/leetcode/tree/master/0319-bulb-switcher) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
