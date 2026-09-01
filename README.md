@@ -526,6 +526,7 @@ This project is licensed under the MIT License.
 | [0335-self-crossing](https://github.com/deera009/leetcode/tree/master/0335-self-crossing) |
 | [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/deera009/leetcode/tree/master/0343-integer-break) |
+| [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/deera009/leetcode/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
@@ -909,6 +910,7 @@ This project is licensed under the MIT License.
 | [0169-majority-element](https://github.com/deera009/leetcode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/deera009/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deera009/leetcode/tree/master/0191-number-of-1-bits) |
+| [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1046,4 +1048,12 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
+## Euler's Totient Function
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
+## Euler's Theorem
+|  |
+| ------- |
+| [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
 <!---LeetCode Topics End-->
