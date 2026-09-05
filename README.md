@@ -345,6 +345,7 @@ This project is licensed under the MIT License.
 | [3731-find-missing-elements](https://github.com/deera009/leetcode/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/deera009/leetcode/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/deera009/leetcode/tree/master/3876-construct-uniform-parity-array-ii) |
+| [3904-smallest-stable-index-ii](https://github.com/deera009/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Matrix
 |  |
 | ------- |
@@ -644,6 +645,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
+| [3904-smallest-stable-index-ii](https://github.com/deera009/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
