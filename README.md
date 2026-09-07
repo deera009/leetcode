@@ -395,6 +395,7 @@ This project is licensed under the MIT License.
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -604,6 +605,7 @@ This project is licensed under the MIT License.
 | [0375-guess-number-higher-or-lower-ii](https://github.com/deera009/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
+| [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
