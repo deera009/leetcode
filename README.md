@@ -839,6 +839,7 @@ This project is licensed under the MIT License.
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deera009/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -860,6 +861,7 @@ This project is licensed under the MIT License.
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deera009/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
 ## Binary Tree
 |  |
@@ -889,6 +891,7 @@ This project is licensed under the MIT License.
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deera009/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
 | ------- |
