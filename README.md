@@ -336,6 +336,7 @@ This project is licensed under the MIT License.
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/deera009/leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deera009/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/deera009/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/deera009/leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/deera009/leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -503,6 +504,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0204-count-primes](https://github.com/deera009/leetcode/tree/master/0204-count-primes) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deera009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/deera009/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/deera009/leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/deera009/leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 ## Math
@@ -715,6 +717,7 @@ This project is licensed under the MIT License.
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/deera009/leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/deera009/leetcode/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3483-unique-3-digit-even-numbers](https://github.com/deera009/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deera009/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deera009/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/deera009/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -748,6 +751,7 @@ This project is licensed under the MIT License.
 | [0326-power-of-three](https://github.com/deera009/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/deera009/leetcode/tree/master/0342-power-of-four) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
+| [3483-unique-3-digit-even-numbers](https://github.com/deera009/leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Counting Sort
 |  |
 | ------- |
