@@ -551,6 +551,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/deera009/leetcode/tree/master/3345-smallest-divisible-digit-product-i) |
@@ -621,6 +622,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deera009/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -659,6 +661,7 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [3904-smallest-stable-index-ii](https://github.com/deera009/leetcode/tree/master/3904-smallest-stable-index-ii) |
 ## Heap (Priority Queue)
@@ -1043,6 +1046,7 @@ This project is licensed under the MIT License.
 ## Combinatorics
 |  |
 | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deera009/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Bucket Sort
