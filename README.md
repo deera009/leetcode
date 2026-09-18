@@ -402,6 +402,7 @@ This project is licensed under the MIT License.
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
 | [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -440,6 +441,7 @@ This project is licensed under the MIT License.
 | [0179-largest-number](https://github.com/deera009/leetcode/tree/master/0179-largest-number) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deera009/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -644,6 +646,7 @@ This project is licensed under the MIT License.
 | [0628-maximum-product-of-three-numbers](https://github.com/deera009/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1340-jump-game-v](https://github.com/deera009/leetcode/tree/master/1340-jump-game-v) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/deera009/leetcode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -731,6 +734,7 @@ This project is licensed under the MIT License.
 | [0391-perfect-rectangle](https://github.com/deera009/leetcode/tree/master/0391-perfect-rectangle) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deera009/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/deera009/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/deera009/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/deera009/leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
