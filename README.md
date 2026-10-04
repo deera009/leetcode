@@ -402,6 +402,7 @@ This project is licensed under the MIT License.
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -431,6 +432,7 @@ This project is licensed under the MIT License.
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
+| [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Greedy
 |  |
@@ -441,6 +443,7 @@ This project is licensed under the MIT License.
 | [0134-gas-station](https://github.com/deera009/leetcode/tree/master/0134-gas-station) |
 | [0135-candy](https://github.com/deera009/leetcode/tree/master/0135-candy) |
 | [0179-largest-number](https://github.com/deera009/leetcode/tree/master/0179-largest-number) |
+| [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -623,6 +626,7 @@ This project is licensed under the MIT License.
 | [0343-integer-break](https://github.com/deera009/leetcode/tree/master/0343-integer-break) |
 | [0375-guess-number-higher-or-lower-ii](https://github.com/deera009/leetcode/tree/master/0375-guess-number-higher-or-lower-ii) |
 | [0486-predict-the-winner](https://github.com/deera009/leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/deera009/leetcode/tree/master/0877-stone-game) |
 | [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/deera009/leetcode/tree/master/1140-stone-game-ii) |
@@ -1115,4 +1119,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 <!---LeetCode Topics End-->
