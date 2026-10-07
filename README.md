@@ -402,6 +402,7 @@ This project is licensed under the MIT License.
 | [0224-basic-calculator](https://github.com/deera009/leetcode/tree/master/0224-basic-calculator) |
 | [0273-integer-to-english-words](https://github.com/deera009/leetcode/tree/master/0273-integer-to-english-words) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/deera009/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
@@ -771,6 +772,7 @@ This project is licensed under the MIT License.
 | [0131-palindrome-partitioning](https://github.com/deera009/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
 | [0282-expression-add-operators](https://github.com/deera009/leetcode/tree/master/0282-expression-add-operators) |
+| [0301-remove-invalid-parentheses](https://github.com/deera009/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/deera009/leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Recursion
 |  |
@@ -954,6 +956,7 @@ This project is licensed under the MIT License.
 | [0127-word-ladder](https://github.com/deera009/leetcode/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
+| [0301-remove-invalid-parentheses](https://github.com/deera009/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/deera009/leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Divide and Conquer
