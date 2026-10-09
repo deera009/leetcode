@@ -407,6 +407,7 @@ This project is licensed under the MIT License.
 | [0940-distinct-subsequences-ii](https://github.com/deera009/leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deera009/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -435,6 +436,7 @@ This project is licensed under the MIT License.
 | [0225-implement-stack-using-queues](https://github.com/deera009/leetcode/tree/master/0225-implement-stack-using-queues) |
 | [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deera009/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 ## Greedy
 |  |
 | ------- |
@@ -448,6 +450,7 @@ This project is licensed under the MIT License.
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/deera009/leetcode/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1386-cinema-seat-allocation](https://github.com/deera009/leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/deera009/leetcode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deera009/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deera009/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -1126,4 +1129,5 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [0678-valid-parenthesis-string](https://github.com/deera009/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/deera009/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 <!---LeetCode Topics End-->
