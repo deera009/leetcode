@@ -330,6 +330,7 @@ This project is licensed under the MIT License.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deera009/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/deera009/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/deera009/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/deera009/leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -574,6 +575,7 @@ This project is licensed under the MIT License.
 | [1406-stone-game-iii](https://github.com/deera009/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/deera009/leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -651,6 +653,7 @@ This project is licensed under the MIT License.
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/deera009/leetcode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/deera009/leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/deera009/leetcode/tree/master/1563-stone-game-v) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1871-jump-game-vii](https://github.com/deera009/leetcode/tree/master/1871-jump-game-vii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/deera009/leetcode/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
@@ -899,6 +902,7 @@ This project is licensed under the MIT License.
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deera009/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
 |  |
@@ -951,6 +955,7 @@ This project is licensed under the MIT License.
 | [0144-binary-tree-preorder-traversal](https://github.com/deera009/leetcode/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/deera009/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/deera009/leetcode/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Binary Search Tree
 |  |
@@ -962,6 +967,7 @@ This project is licensed under the MIT License.
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/deera009/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0173-binary-search-tree-iterator](https://github.com/deera009/leetcode/tree/master/0173-binary-search-tree-iterator) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -992,6 +998,7 @@ This project is licensed under the MIT License.
 | [0190-reverse-bits](https://github.com/deera009/leetcode/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/deera009/leetcode/tree/master/0191-number-of-1-bits) |
 | [0372-super-pow](https://github.com/deera009/leetcode/tree/master/0372-super-pow) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Graph Theory
 |  |
 | ------- |
@@ -1025,6 +1032,7 @@ This project is licensed under the MIT License.
 | [0070-climbing-stairs](https://github.com/deera009/leetcode/tree/master/0070-climbing-stairs) |
 | [0139-word-break](https://github.com/deera009/leetcode/tree/master/0139-word-break) |
 | [0140-word-break-ii](https://github.com/deera009/leetcode/tree/master/0140-word-break-ii) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
@@ -1052,6 +1060,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/deera009/leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/deera009/leetcode/tree/master/0130-surrounded-regions) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Brute-Force Search
 |  |
 | ------- |
@@ -1092,6 +1101,7 @@ This project is licensed under the MIT License.
 ## Combinatorics
 |  |
 | ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/deera009/leetcode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/deera009/leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deera009/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
@@ -1153,4 +1163,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/deera009/leetcode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
