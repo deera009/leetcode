@@ -434,6 +434,7 @@ This project is licensed under the MIT License.
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/deera009/leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/deera009/leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/deera009/leetcode/tree/master/3863-minimum-operations-to-sort-a-string) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/deera009/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Stack
 |  |
 | ------- |
@@ -721,6 +722,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/deera009/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/deera009/leetcode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/deera009/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Binary Search
 |  |
 | ------- |
@@ -1023,6 +1025,7 @@ This project is licensed under the MIT License.
 | ------- |
 | [0133-clone-graph](https://github.com/deera009/leetcode/tree/master/0133-clone-graph) |
 | [3310-remove-methods-from-project](https://github.com/deera009/leetcode/tree/master/3310-remove-methods-from-project) |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/deera009/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 ## Number Theory
 |  |
 | ------- |
@@ -1188,4 +1191,8 @@ This project is licensed under the MIT License.
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/deera009/leetcode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Shortest Path
+|  |
+| ------- |
+| [3970-shortest-path-with-at-most-k-consecutive-identical-characters](https://github.com/deera009/leetcode/tree/master/3970-shortest-path-with-at-most-k-consecutive-identical-characters) |
 <!---LeetCode Topics End-->
